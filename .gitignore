@@ -1,16 +1,16 @@
-# Non-source project material
-Application/
-Datasheet/
-Picture/
-/*.pdf
+# # Non-source project material
+# Application/
+# Datasheet/
+# Picture/
+# /*.pdf
 
-# Python-generated files
-__pycache__/
-*.py[cod]
-*.pyo
-*.pyd
-*.egg-info/
+# # Python-generated files
+# __pycache__/
+# *.py[cod]
+# *.pyo
+# *.pyd
+# *.egg-info/
 
-# Local/generated runtime files
-Code/Server/params.json
-Code/Server/image.jpg
+# # Local/generated runtime files
+# Code/Server/params.json
+# Code/Server/image.jpg
